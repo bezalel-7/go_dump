@@ -1,0 +1,4 @@
+MUX is like a router in node(express)
+//creating a new instance of http.Server struct - used for configuring the HTTP server
+	//we set the Addr and Handler fields so that the server uses the same network address and routes as before
+	// we use servermux to bind the routes to the handlers
